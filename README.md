@@ -6,7 +6,6 @@ using fenics modules in python.
 NB: before implementation, make sure fenics is install on your machine (computer).
 
 the equation is given by,
-
                   $\textcolor{blue}{-\kappa \Delta u + m u = f}$
 
  where $\kappa > 0$ and $m > 0$.
